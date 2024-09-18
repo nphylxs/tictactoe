@@ -1,0 +1,7 @@
+# TIC-TAC-TOE
+### VIDEO DEMO:
+https://youtu.be/_R8gfIFB3as
+### DESCRIPTION:
+    This program allows you to play tic-tac-toe with a friend or yourself if you wish to. You just have to input the name of the cell, format of the name is (row)(column). Row can be any of three values; a,b, and c; and column; 1,2, and 3; as long as the cell is empty, your symbol('x' or 'o') will be marked upon the cell. A player can emerge victorious if the player manages to put the player's symbol in three adjacent cells; horizontally, vertically, or even diagonally, it doesn't matter. If the entire board is filled, the game ends in a draw. Any player can leave the game immediately by inputting 'exit' when prompted for their move.
+    While creating this program, I initially thought that it would be very simple and I would just have to workout how to make it fast and reliable, however the logic was pretty difficult to translate to code. I was confused about what functions to include as a class method and what function to leave in main but I am pretty satisfied with how it all turned out. I am extremely proud of myself for creating the listmaker function, although it is pretty much useless in any other scenario. The victorycheck function was by far the most troublesome part and it took many trials and errors to get there. I wanted to implement a loop to recognize and compare the diagonals but my skills as a programmer aren't good enough as of now to do that. The cowsay function was just for aesthetic and funsies hehe.
+    

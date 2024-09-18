@@ -1,0 +1,3 @@
+tabulate: to make a board for tictactoe
+re: to check if the move inputted by the user is valid or not
+cowsay: just to announce the result of the match
